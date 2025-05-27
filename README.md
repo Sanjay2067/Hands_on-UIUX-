@@ -2,9 +2,13 @@
 ## Name : JAYARAJ B
 ## Reg. no: 212224220011
 ## AIM:
+# STEP 1:
   a. To Explore the fundamentals of UI and UX
+# STEP 2:
   b. To Differentiate between UI and UX using real-world case studies.
+# STEP 3:
   c. Illustrate the relationship between UI and UX in design.
+# STEP 4:
   d. Demonstrate various UI/UX design tools in detail.
 ## SCREENSHOTS:
 
