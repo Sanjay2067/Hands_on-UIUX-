@@ -1,4 +1,6 @@
 ## Hands_on-UIUX
+## Name : JAYARAJ B
+## Reg. no: 212224220011
 ## AIM:
   a. To Explore the fundamentals of UI and UX
   b. To Differentiate between UI and UX using real-world case studies.
