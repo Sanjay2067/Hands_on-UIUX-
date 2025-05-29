@@ -1,6 +1,6 @@
 ## Hands_on-UIUX
-## Name : JAYARAJ B
-## Reg. no: 212224220011
+## Name : MAGENDRA SANJAY S
+## Reg. no: 212224040179
 ## AIM:
   a. To Explore the fundamentals of UI and UX
 #
@@ -10,12 +10,15 @@
 # 
   d. Demonstrate various UI/UX design tools in detail.
 ## SCREENSHOTS:
+![WhatsApp Image 2025-05-29 at 18 18 17_7d295a0f](https://github.com/user-attachments/assets/3fbca573-c135-4f1e-95d7-a5f8d85ab7df)
 
-![EX1_212223043002_page-0001](https://github.com/user-attachments/assets/028ceee2-2b97-41e6-88fa-53699901ea07)
+![WhatsApp Image 2025-05-29 at 18 18 18_1407e0ef](https://github.com/user-attachments/assets/08659de0-a597-4107-a5dc-cdf97423c481)
 
-![EX1_212223043002_page-0002](https://github.com/user-attachments/assets/74bc6cc6-68fd-4e56-a579-ce07d44466a1)
+![WhatsApp Image 2025-05-29 at 18 18 18_284defa3](https://github.com/user-attachments/assets/0fc44027-cdf8-45c6-a90e-4fbfc27e4cad)
 
-![EX1_212223043002_page-0003](https://github.com/user-attachments/assets/3ac94d36-88c9-4094-9745-a1335dd998a9)
+![WhatsApp Image 2025-05-29 at 18 18 18_5c1a94d9](https://github.com/user-attachments/assets/4aac10cd-73a5-4a49-a2bc-df6849781bd0)
+
+![WhatsApp Image 2025-05-29 at 18 18 18_872fd2ac](https://github.com/user-attachments/assets/2996ed99-1a5b-42e7-bdc0-b5d9bf816817)
 
 ## Result:
 Thus, the experiment was completed successfully.
